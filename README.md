@@ -83,7 +83,7 @@
 ---
 
 
-[website]: http://bilgehangecici.site/
+[website]: https://thefoxdevelop.web.app/
 [instagram]: https://www.instagram.com/bilgehangecici
 [linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
 
