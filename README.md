@@ -4,7 +4,7 @@
 
 ## I'm a Computer Science Student  
 
-- 👨‍💻 I’m currently studing web development technologies like JavaScript, Vue etc.
+- 👨‍💻 I’m currently working with web development technologies like NextJs, NuxtJs, React, Vue, Quasar.dev, Vuetify etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play games and eat 🎱.
